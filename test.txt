@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-afea
-=======
-admin edit
->>>>>>> 7f447877f9561d20baf603a4bbb48293f6e19706
+fixed conflict
